@@ -19,4 +19,3 @@
 
 - [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list): [LICENSE](https://github.com/felixonmars/dnsmasq-china-list/blob/master/LICENSE)
 - [APNIC](https://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest)
-- [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community): [MIT](https://github.com/v2fly/domain-list-community/blob/master/LICENSE)
